@@ -9,10 +9,10 @@ This Python3 script instantly generates new free Spotify accounts (with random c
 
 # Usage
 Simply run it without arguments to generate one account and print its credentials to the console:<br>
-`python oliverpogi.py.py`
+`python3 oliverpogi.py.py`
 
 You can also specify the amount of accounts to generate and a file where their credentials will be saved:<br>
-`python oliverpogi.py -n AMOUNT -o OUTPUT_FILE`
+`python3 oliverpogi.py -n AMOUNT -o OUTPUT_FILE`
 
 The creadentials will be printed/saved in the following format:<br>
 `NICKNAME:USERNAME:EMAIL:PASSWORD`
